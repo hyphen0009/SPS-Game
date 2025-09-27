@@ -64,5 +64,9 @@ You win!
 ---
 
 ## Author 👨‍💻
+## Author
+- Md (Mohammad) Zaid 
+- GitHub: [@hyphen0009](https://github.com/hyphen0009)
+
 
 Made with ❤️ in C.
